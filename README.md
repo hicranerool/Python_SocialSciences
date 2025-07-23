@@ -24,10 +24,3 @@ This repository contains 10 self-contained Python exercises designed to improve 
 | 🔟 | **Data Cleaning Assistant Script** | Auto-handle missing/invalid entries from CSV/Excel |
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/python-data-exercises.git
-   cd python-data-exercises
