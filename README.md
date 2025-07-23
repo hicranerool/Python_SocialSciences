@@ -1,8 +1,4 @@
-# Python_SocialSciences
-# 🧠 Python Data Projects – 10 Exercise Topics
-
-**Last updated:** July 2025  
-**Language:** English | **Style:** Academic | **Focus:** Real-world data, open-source tools, CV-friendly
+# Python_101_Social_Sciences
 
 This repository contains 10 self-contained Python exercises designed to improve your data analysis, visualization, and automation skills using real-world datasets and APIs. Each exercise includes practical tasks inspired by global challenges such as education, politics, economy, and development.
 
